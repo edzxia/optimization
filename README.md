@@ -16,6 +16,7 @@ HW4 contains some of the same algorithms from before and in addition (also for a
 HW5 contains for an objective function that maximizes the inner product of the input and randomly generated Rademacher vectors on an L1 and L2 ball
   - Projected Subgradient Descent
   - Mirror Descent with negative entropy function
+
 and for an objective function that maximizes a quadratic function with a matrix whose elements are drawn i.i.d. from Gaussian distribution
   - Projected Subgradient Descent
   - Franke-Wolfe method
