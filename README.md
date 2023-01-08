@@ -17,6 +17,6 @@ HW5 contains for an objective function that maximizes the inner product of the i
   - Projected Subgradient Descent
   - Mirror Descent with negative entropy function
 
-and for an objective function that maximizes a quadratic function with a matrix whose elements are drawn i.i.d. from Gaussian distribution
+and for an objective function that maximizes a quadratic function with a matrix whose elements are drawn i.i.d. from Gaussian distribution on the probability simplex
   - Projected Subgradient Descent
   - Franke-Wolfe method
